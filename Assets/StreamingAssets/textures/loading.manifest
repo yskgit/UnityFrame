@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 144779975
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5b675130325fea61d32cdc6d13d662f1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 21f0dc8ebad690f009368069428e0a1a
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Textures/Loading/MjLoading5.png
+- Assets/Textures/Loading/MjLoading1.png
+- Assets/Textures/Loading/jiayu.png
+- Assets/Textures/Loading/MjLoading8.png
+- Assets/Textures/Loading/MjLoading6.png
+- Assets/Textures/Loading/MjLoading4.png
+- Assets/Textures/Loading/MjLoading7.png
+- Assets/Textures/Loading/MjLoading2.png
+- Assets/Textures/Loading/MjLoading3.png
+Dependencies: []

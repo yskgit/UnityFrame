@@ -1,0 +1,45 @@
+ManifestFileVersion: 0
+CRC: 3077729809
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1da210145905b60b87e3dc184cc747de
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 21f0dc8ebad690f009368069428e0a1a
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Textures/Common/frame_13.png
+- Assets/Textures/Common/frame_biaoti.png
+- Assets/Textures/Common/frame_3.png
+- Assets/Textures/Common/frame_6.png
+- Assets/Textures/Common/icon_quanxuanzhong.png
+- Assets/Textures/Common/frame_12.png
+- Assets/Textures/Common/icon_quan.png
+- Assets/Textures/Common/frame_4.png
+- Assets/Textures/Common/frame_shuzidi.png
+- Assets/Textures/Common/frame_8.png
+- Assets/Textures/Common/frame_xuanzhongkuang.png
+- Assets/Textures/Common/frame_xinxilan.png
+- Assets/Textures/Common/shade.png
+- Assets/Textures/Common/frame_fangka.png
+- Assets/Textures/Common/frame_5.png
+- Assets/Textures/Common/icon_fangka.png
+- Assets/Textures/Common/icon_gold.png
+- Assets/Textures/Common/icon_hengxian.png
+- Assets/Textures/Common/frame_10.png
+- Assets/Textures/Common/frame_7.png
+- Assets/Textures/Common/frame_biaotidi.png
+- Assets/Textures/Common/frame_11.png
+- Assets/Textures/Common/frame_9.png
+- Assets/Textures/Common/icon_anwen.png
+- Assets/Textures/Common/icon_shuxian.png
+- Assets/Textures/Common/icon_close.png
+- Assets/Textures/Common/frame_9_selected.png
+- Assets/Textures/Common/frame_1.png
+Dependencies: []

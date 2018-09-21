@@ -1,0 +1,28 @@
+{
+  "BundleInfoList": {
+    "StandaloneWindows": {
+      "bundleName": "StandaloneWindows",
+      "bundleCRC": 1520047256,
+      "bundleHash128": "00000000000000000000000000000000",
+      "size": 0.0
+    },
+    "textures/bigtexture/bg_game": {
+      "bundleName": "textures/bigtexture/bg_game",
+      "bundleCRC": 1075207061,
+      "bundleHash128": "a693a5a42d4c5e126adf45b59fa52986",
+      "size": 0.227009773
+    },
+    "textures/bigtexture/bg_hall": {
+      "bundleName": "textures/bigtexture/bg_hall",
+      "bundleCRC": 196355196,
+      "bundleHash128": "f25d095183b773f72fa951da556f5f9e",
+      "size": 0.241933823
+    },
+    "textures/hall": {
+      "bundleName": "textures/hall",
+      "bundleCRC": 4284981804,
+      "bundleHash128": "b9568be75adc431972828b5ac80e3d88",
+      "size": 0.274871826
+    }
+  }
+}

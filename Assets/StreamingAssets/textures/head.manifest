@@ -1,0 +1,42 @@
+ManifestFileVersion: 0
+CRC: 3762657722
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 594dcf205da63c18726d1d0c88a1196b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 21f0dc8ebad690f009368069428e0a1a
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Textures/Head/boy7.png
+- Assets/Textures/Head/girl11.png
+- Assets/Textures/Head/girl12.png
+- Assets/Textures/Head/girl3.png
+- Assets/Textures/Head/girl4.png
+- Assets/Textures/Head/girl1.png
+- Assets/Textures/Head/girl10.png
+- Assets/Textures/Head/boy3.png
+- Assets/Textures/Head/girl5.png
+- Assets/Textures/Head/boy5.png
+- Assets/Textures/Head/boy8.png
+- Assets/Textures/Head/boy1.png
+- Assets/Textures/Head/boy4.png
+- Assets/Textures/Head/girl8.png
+- Assets/Textures/Head/boy10.png
+- Assets/Textures/Head/boy6.png
+- Assets/Textures/Head/frame_head.png
+- Assets/Textures/Head/boy11.png
+- Assets/Textures/Head/boy12.png
+- Assets/Textures/Head/girl9.png
+- Assets/Textures/Head/boy9.png
+- Assets/Textures/Head/girl7.png
+- Assets/Textures/Head/boy2.png
+- Assets/Textures/Head/girl6.png
+- Assets/Textures/Head/girl2.png
+Dependencies: []

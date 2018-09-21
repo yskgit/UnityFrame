@@ -1,0 +1,39 @@
+ManifestFileVersion: 0
+CRC: 4284981804
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b9568be75adc431972828b5ac80e3d88
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 21f0dc8ebad690f009368069428e0a1a
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Textures/Hall/icon_add_select.png
+- Assets/Textures/Hall/icon_shade.png
+- Assets/Textures/Hall/sprite_chuangjianbaoxiang_1.png
+- Assets/Textures/Hall/icon_tishi.png
+- Assets/Textures/Hall/icon_guize.png
+- Assets/Textures/Hall/icon_gou.png
+- Assets/Textures/Hall/icon_message.png
+- Assets/Textures/Hall/icon_geren.png
+- Assets/Textures/Hall/icon_geren_selected.png
+- Assets/Textures/Hall/icon_store_selected.png
+- Assets/Textures/Hall/sprite_chuangjianbaoxiang_2.png
+- Assets/Textures/Hall/icon_jiarubaoxiang_1.png
+- Assets/Textures/Hall/icon_shezhi.png
+- Assets/Textures/Hall/icon_grade.png
+- Assets/Textures/Hall/icon_grade_selected.png
+- Assets/Textures/Hall/icon_add.png
+- Assets/Textures/Hall/icon_huodong.png
+- Assets/Textures/Hall/icon_message_selected.png
+- Assets/Textures/Hall/icon_huodong_selected.png
+- Assets/Textures/Hall/sprite_shijiantiao.png
+- Assets/Textures/Hall/icon_jiarubaoxiang_2.png
+- Assets/Textures/Hall/icon_store.png
+Dependencies: []

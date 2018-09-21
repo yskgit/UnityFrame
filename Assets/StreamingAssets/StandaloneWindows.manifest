@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 750675948
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: textures/icon
+      Dependencies: {}
+    Info_1:
+      Name: textures/head
+      Dependencies: {}
+    Info_2:
+      Name: textures/common
+      Dependencies: {}
+    Info_3:
+      Name: textures/hall
+      Dependencies: {}
+    Info_4:
+      Name: textures/loading
+      Dependencies: {}
+    Info_5:
+      Name: scenes
+      Dependencies: {}
